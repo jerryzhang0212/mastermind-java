@@ -33,6 +33,15 @@ This project was written as part of my computer science practice in Java, focusi
 
 ---
 
-## 📂 Running the Program
+## Running the Program
 
 ### Compile:
+javac MyProgram.java
+### Run:
+java MyProgram
+
+---
+
+## Author
+Hongyi Zhang  
+GitHub: *your username here*
