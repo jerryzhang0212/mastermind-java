@@ -30,9 +30,3 @@ This project was written as part of my computer science practice in Java, focusi
 - Clean console interface
 - Replay option
 - Case-insensitive input
-
----
-
-## Author
-Hongyi Zhang  
-GitHub: *your username here*
