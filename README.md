@@ -14,15 +14,11 @@ This project was written as part of my computer science practice in Java, focusi
 - Logical comparison algorithms  
 - Console UI interaction  
 
----
-
 ## How to Play
 1. Player 1 enters a 4-letter secret code using letters A–F.
 2. Player 2 has 8 attempts to guess the code.
 3. After each guess, feedback is displayed.
 4. If the guess is correct (all letters in correct position), the game ends.
-
----
 
 ## Features
 - Full input validation (length, characters, duplicates)
